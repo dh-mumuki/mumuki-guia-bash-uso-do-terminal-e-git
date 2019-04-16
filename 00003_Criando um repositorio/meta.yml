@@ -9,4 +9,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: query_passes
   query: cd /home/mumuki/curriculum && git status
-name: Creando un repositorio
+name: Criando um repositorio
