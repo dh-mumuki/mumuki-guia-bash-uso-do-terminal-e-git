@@ -1,0 +1,1 @@
+Aprenderemos como trabalhar com o GIT no terminal
