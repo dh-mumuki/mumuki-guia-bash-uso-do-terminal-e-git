@@ -1,3 +1,3 @@
-¡Excelente!
+Excelente!
 
-No perdamos de vista que si lo que tenemos es un repositorio que **no es nuestro**, en vez de hacer esta secuencia ejecutaríamos únicamente `git clone ...URL...` que creará nuestro repositorio local ya sincronizado con el repositorio remoto
+Se formos trabalhar em um repositorio que **não é nosso**, em vez de fazer essa sequência, executaríamos apenas `git clone ...URL...` que criará nosso repositório local já sincronizado com o repositório remoto
