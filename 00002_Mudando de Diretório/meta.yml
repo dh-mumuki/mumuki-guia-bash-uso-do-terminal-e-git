@@ -9,6 +9,6 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: |-
-    el_angel_gris.txt
-    el_bar_del_infierno.txt
+    se_eu_fosse_voce.txt
+    the_hangover.txt
 name: Mudando de Diretório
