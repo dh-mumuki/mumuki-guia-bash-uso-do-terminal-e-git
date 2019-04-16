@@ -1,6 +1,7 @@
-Una terminal puede hacer muchas cosas por nosotros si se lo pedimos mediante _comandos_. 
+Um terminal pode fazer muitas coisas por nós se pedirmos através de _comandos_. 
 
-Por ejemplo `ls` nos permite ver los archivos que hay en la carpeta (también conocida como _directorio_) en la que estamos "parados" (también conocida como _directorio actual_). Así, si ingresamos `ls`...
+
+Por exemplo `ls` nos permite ver os arquivos que estão em uma pasta (também conhecida como _diretorio_) em que estamos "parados" (também conhecida como _diretorio actual_). Assim, começamos com `ls`...
 
 ```sh
 $ ls
@@ -9,6 +10,6 @@ curriculum-v2.html
 curriculum-v3.html
 ```
 
-...estamos listando los archivos en el directorio actual.
+...estamos listando os arquivos do diretorio atual.
 
-> Descubrí qué pasa si introducís en la terminal `ls` y también que pasa al intentar `ls -lah`
+> Descubrir o que acontece se digitar no terminal `ls` e também o que acontece se digitar `ls -lah`
