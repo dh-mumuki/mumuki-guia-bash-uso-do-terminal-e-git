@@ -1,20 +1,20 @@
-_¿Y ahora, quién podrá ayudarnos? ¡`git`, el comando de versionado!_
+_E agora, quem poderá nos ajudar? `git`, o comando de versionamento!_
 
-`git` es otro comando, un poco más complejo que los anteriores, que nos ahorrará varios dolores de cabeza. Volvamos a empezar nuestro currículum, ésta vez usando `git`, y en un directorio inicialmente vacío, que llamaremos _repositorio_: 
+`git` é outro comando, um pouco mais complexo que os anteriores, mas que nos poupará várias dores de cabeça. Vamos começar o nosso currículo, desta vez usando `git`, e em um diretório inicialmente vazio, que chamaremos _repositorio_: 
 
 ```bash
-# Primero, debermos crear un directorio vacío, donde
-# trabajaremos con la última versión de nuestros archivos 
-# (llamada copia de trabajo).
+# Primeiro, devemos criar um diretório vazio, onde
+# vamos trabalhar com a última versão dos nossos arquivos 
+# (chamada copia de trabalho).
 $ mkdir curriculum
-# Segundo, navegaremos hacia el nuevo directorio
+# Segundo, vamos navegar para o novo diretório
 $ cd curriculum
-# Tercero, iniciaremos un repositorio
+# Terceiro, iniciaremos um repositorio
 $ git init
 Initialized empty Git repository in /home/mumuki/curriculum/.git/
 ```
 
-Este proceso es necesario para informarle a `git` que `/home/mumuki/curriculum/` será un repositorio que nos permitirá guardar versiones. 
+Este processo é necessário para informar ao `git` que `/home/mumuki/curriculum/` será um repositorio que nos permitirá guardar versões. 
 
-> Veamos si se entiende: repetí estos 3 pasos en la terminal 
+> Vamos ver se entendeu: repita estes 3 passos no terminal 
 
