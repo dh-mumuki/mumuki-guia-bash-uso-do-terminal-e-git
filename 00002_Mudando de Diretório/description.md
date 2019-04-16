@@ -7,7 +7,7 @@ drwxrwxr-x 2 dh dh 4096 oct 24 13:31 comedia
 -rw-rw-r-- 1 dh dh    0 oct 24 13:29 nem_o_tiro_final.txt
 drwxrwxr-x 2 dh dh 4096 oct 24 13:30 suspense
 ```
-...podemos trocar `drama` e depois listar seus arquivos:
+...podemos trocar `acao` e depois listar seus arquivos:
 
 ```bash
 $ cd acao
