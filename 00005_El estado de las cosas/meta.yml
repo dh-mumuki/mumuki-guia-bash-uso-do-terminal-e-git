@@ -1,0 +1,12 @@
+---
+tags: []
+layout: input_bottom
+editor: 0
+type: interactive
+extra_visible: false
+manual_evaluation: false
+choices: []
+goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  kind: last_query_equals
+  value: git status
+name: El estado de las cosas
