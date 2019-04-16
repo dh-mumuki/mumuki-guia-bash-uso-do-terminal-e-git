@@ -11,4 +11,4 @@ goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   output: |-
     el_angel_gris.txt
     el_bar_del_infierno.txt
-name: Cambiando de Directorio
+name: Mudando de Diretório
