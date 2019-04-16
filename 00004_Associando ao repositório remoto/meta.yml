@@ -8,5 +8,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
-  value: git remote add origin http://otra-pc/foo/bar
-name: Asociando el repositorio remoto
+  value: git remote add origin http://outro-computador/foo/bar
+name: Associando ao repositório remoto
