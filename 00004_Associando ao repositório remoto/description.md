@@ -7,4 +7,4 @@ git remote add origin ...URL...
 ```
 
 
-> Vamos ver se está claro: no caminho `filmes` você pode encontrar o repositório local. Registre um repositório remoto para `http://outro-computador/foo/bar`. 
+> Vamos ver se está claro: Voce já está no caminho `filmes` e você pode encontrar o repositório local. Registre um repositório remoto para `http://outro-computador/foo/bar`. 
