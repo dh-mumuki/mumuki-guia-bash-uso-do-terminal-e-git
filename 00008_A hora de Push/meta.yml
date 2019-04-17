@@ -8,5 +8,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: El repositorio se actualizó correctamente
-name: Tempo de Push
+  output: O repositório foi atualizado com sucesso
+name: A hora de Push
