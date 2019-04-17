@@ -9,4 +9,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: query_passes
   query: git log
-name: Nuestro primer Commit
+name: Nosso primeiro Commit
