@@ -9,4 +9,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
   value: git status
-name: El estado de las cosas
+name: O estado das coisas
