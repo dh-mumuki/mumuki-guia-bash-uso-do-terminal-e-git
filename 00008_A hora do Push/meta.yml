@@ -9,4 +9,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: O repositório foi atualizado com sucesso
-name: A hora de Push
+name: A hora do Push
