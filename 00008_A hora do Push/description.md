@@ -1,7 +1,5 @@
-Ótimo!
+Agora o que temos que fazer é enviar as alterações que fizemos para o Github.
 
-Agora o que temos que fazer é enviar as alterações que fizemos para a nuvem.
-
-Para isso, vamos usar o comando `git push origin master`
+Para isso, vamos usar o comando `git push origin master` ou `git push`
 
 > Envie as alterações que adicionamos para a nuvem
