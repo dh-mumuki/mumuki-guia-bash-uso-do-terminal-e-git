@@ -16,5 +16,8 @@ Initialized empty Git repository in /home/mumuki/curriculum/.git/
 
 Este processo é necessário para informar ao `git` que `/home/mumuki/curriculum/` será um repositorio que nos permitirá guardar versões. 
 
-> Vamos ver se entendeu: repita estes 3 passos no terminal 
+> Vamos ver se entendeu: repita estes 3 passos no terminal. Criando a pasta curriculum (mkdir), entrando nesta pasta (cd), e iniciando um repositório (git init).
+> mkdir 
+> cd
+> git init
 
