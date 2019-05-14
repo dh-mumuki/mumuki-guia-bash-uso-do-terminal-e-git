@@ -12,4 +12,4 @@ curriculum-v3.html
 
 ...estamos listando os arquivos do diretorio atual.
 
-> Descubra o que acontece se digitar no terminal `ls` e também o que acontece se digitar `ls-lah`
+> Descubra o que acontece se digitar no terminal `ls` e também o que acontece se digitar `ls -lah`
