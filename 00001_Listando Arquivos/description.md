@@ -1,7 +1,7 @@
 Um terminal pode fazer muitas coisas por nós se pedirmos através de _comandos_. 
 
 
-Por exemplo `ls` nos permite ver os arquivos que estão em uma pasta (também conhecida como _diretorio_) em que estamos "parados" (também conhecida como _diretorio actual_). Assim, começamos com `ls`...
+Por exemplo `ls` nos permite ver os arquivos que estão em uma pasta (também conhecida como _diretorio_) em que estamos "parados" (também conhecida como _diretorio atual_). Assim, começamos com `ls`...
 
 ```sh
 $ ls
@@ -12,4 +12,4 @@ curriculum-v3.html
 
 ...estamos listando os arquivos do diretorio atual.
 
-> Descubrir o que acontece se digitar no terminal `ls` e também o que acontece se digitar `ls -lah`
+> Descubra o que acontece se digitar no terminal `ls` e também o que acontece se digitar `ls-lah`
